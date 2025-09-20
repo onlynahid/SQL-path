@@ -1,0 +1,1 @@
+"DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=JuanAppDb;Trusted_Connection=True;TrustServerCertificate=True;"
